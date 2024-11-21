@@ -15,6 +15,6 @@ Landing Page baseado na série Stranger Things
 
 # Autoria 
 Pedro José Rodrigues Gomes através dos conhecimentos adquiridos no Bootcamp da DIO, junto com a DEV Michelle Ambrosio
-E-mail: pd420000@gmail.com
-GitHub: https://www.github.com/pedrojose1999
-Instagram: pd420000
+- E-mail: pd420000@gmail.com
+- GitHub: https://www.github.com/pedrojose1999
+- Instagram: pd420000
